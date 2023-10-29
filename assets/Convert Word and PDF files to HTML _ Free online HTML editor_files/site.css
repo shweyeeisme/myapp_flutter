@@ -1,0 +1,2125 @@
+html,
+body {
+    height: 100%;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    background-color: #fff;    
+}
+
+#wth {
+    padding: 15px 0 5px 0;
+    border-top: 1px solid #f0f0f0;
+    margin-top: 15px;
+    z-index: 1000;
+}    
+
+#wth {
+    background-color: #fff;
+}
+
+#wth h1, .dcpInfo h2 {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.blue, .container h1, #topInfo h1, #emailEditorTop h1, #topPaymentHeadings h1, #uploadAndConvertWrapper h2, #homeFeatures p i, #wth h1, .dcpInfo h2, 
+#htmlEditorBelow .dcpAds i, #guarantee h3, #openAITop h1, #convertLinks a, .blueLink {
+    color: #4A7CDF;
+}
+
+#uploadAndConvertWrapper h2 {
+    margin: 0px 0 30px 0; 
+}
+
+.green, #topInfo a, #bottomInfo a {
+    color: #1FC980;
+}
+
+#topInfo a, #bottomInfo a {
+    text-decoration: underline;   
+}
+
+#headerBar-collapse {
+    margin: 10px 0 10px 0;
+}
+
+.dcpInfo p {
+    font-size: 16px;
+}
+
+.dcpInfo a {
+    text-decoration: underline;
+}
+
+#editorsWrapper
+{
+    margin-top: 10px;
+}
+
+#homeWTHInfo {
+    margin: 60px 0 40px 0;
+}
+
+#homeWTHInfo h2 {
+    margin: 10px 0px 20px 0px;
+    color: #337ab7;
+    font-size: 26px;
+}
+
+#homeWTHInfo p {
+    color: #748598;
+    font-size: 16px;
+}
+
+#homeWTHInfo #homeFeatures p {
+    font-size: 16px;
+}
+
+#homeFeatures p i {
+    padding-right: 10px;
+}
+
+#tryProButton {
+    margin: 50px 0;
+}
+ 
+#tryProButton a {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#goProHomeInfo .btn-lg {
+    border-radius: 10px;
+    padding: 10px 60px;
+}
+
+#viewPricingLink {
+    font-size: 16px;
+}
+
+#featuresArrow {
+    margin-top: 20px;
+    margin-left: 30px;
+    vertical-align: top;
+}
+
+#userReviews {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+#userReviews h3 {
+    margin: 30px 0;
+    font-size: 30px;
+}
+
+#userReviews h3 i {
+    color: red;
+}
+
+#homeWTHInfo .well {    
+    color: #748598;
+    padding: 40px;
+    border: 1px solid #f8f8f8;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 12px 52px 0px rgba(186, 213, 241, 0.3);
+    -moz-box-shadow: 0px 12px 52px 0px rgba(186, 213, 241, 0.3);
+    box-shadow: 0px 12px 52px 0px rgba(186, 213, 241, 0.3);
+    background-color: #fff;
+}
+
+#homeVideo {
+    width: 853px;
+    height: 480px;
+}
+
+#goProTimerWrapper {
+    font-size: 18px;
+    font-weight: bold;
+    display: none;
+    color: red;
+    z-index: 10;
+}
+
+#goProTimerWrapper a, .link {
+    text-decoration: underline;
+}
+
+#goProTimer {
+    display: inline-block;
+}
+
+#featureImg, .site-news img, .site-help img, #cleanupTabs, #uploadAndConvertCol #fileForm {
+    box-shadow: 0px 6px 15px 0px rgba(186, 213, 241, 0.4);
+}
+
+#featureImg {
+    max-width: 670px;
+}
+
+#cleanupTabs {
+    background-color: #fff;
+    padding: 15px;
+    margin-top: 30px;    
+}
+
+#cleanupTabs, #uploadAndConvertCol #fileForm {
+    border-radius: 5px;
+}
+
+#cleanupTab textarea, #findReplaceTab textarea, #findReplaceTab select, #tagAttributesTab input, #tagAttributesTab select, #tagAttributesTab textarea {
+    border: 1px solid #d0d0d0;
+    border-radius: 5px;    
+    padding: 5px;
+}
+
+.nav-tabs > li > a {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#userMenuName 
+{
+    text-align: center;
+    color: #555;
+    padding: 10px 15px;
+}
+
+#loginMenuItem 
+{
+    background-color: #4A7CDF;
+    color: #FFF;
+}
+
+#loginMenuItem:hover 
+{
+    background-color: #286090;
+    border-color: #204d74;
+}
+
+body, h2, h3, h4, h5, h6, p, a
+{
+    color: #444;    
+}
+
+.dark-theme h1, .dark-theme h2, .dark-theme h3, .dark-theme h4, .dark-theme h5, .dark-theme h6, .dark-theme p, .dark-theme a 
+{
+    color: #fff;
+}
+
+a:hover {
+    color: #aaa;
+}
+
+a:focus {
+    color: #888;
+}
+
+.footer a, .grid-view a {
+    color: #444;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+h4 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 20px
+}
+
+.site-login h1, .site-signup h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.site-login .form-control, .site-signup .form-control {
+    height: auto;
+    padding: 10px 15px;
+    font-size: 15px;
+}
+
+.site-help hr { margin: 40px 0; }
+
+input, select, textarea { color: #555; }
+
+input[type="text"][disabled], textarea[disabled]{ background-color:#ccc; }
+
+.wrap {
+    min-height: 93%;
+    height: auto;
+    margin: 0 auto 0px;
+    padding: 0;
+    position: relative;
+    background-color: #f5f6fa;
+}
+
+.wrap > .container-fluid {
+    padding: 10px 30px 50px 30px;
+}
+
+.nav > li > a {
+    padding: 6px 18px;
+    margin: 0px 4px;
+    border-radius: 5px;  
+}
+
+.nav > li > a > img {
+    vertical-align: top;
+}
+
+.nav > li > .navButton {
+    padding: 8px 35px;
+    font-weight: bold;
+}
+
+.navbar {
+    margin-bottom: 0;
+    padding: 5px 0px 15px 0px;
+}
+
+.navbar-right {
+    margin-top: 8px;
+}
+
+.navbar-form {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    padding-top: 10px;
+}
+
+.navbar {
+    background-color: #fff;
+    border-color: #ddd;
+}
+
+.navbar .navbar-nav > li > a, .navbar .navbar-nav > li > a:focus {
+    color: #061F37;
+    background-color: #fff;
+    font-size: 16px;
+}
+
+.navbar .navbar-nav > li > a:hover, .navbar .btn-link:hover, .navbar .btn-link:focus {
+    color: #555;
+}
+
+.navbar .navbar-nav > .active > a, .navbar .navbar-nav > .active > a:hover, .navbar .navbar-nav > .active > a:focus {
+    color: #4A7CDF;
+    font-weight: bold;
+    background-color: #fff;
+}
+
+.navbar .navbar-toggle {
+    border: none;
+}
+
+.navbar .navbar-toggle:hover, .navbar .navbar-toggle:focus {
+    background-color: #f0f0f0;
+}
+
+.navbar .navbar-toggle .icon-bar {
+    background-color: #4A7CDF;
+}
+
+
+.footer {
+    height: 100px;
+    background-color: #1A3A58;
+    padding: 30px 0;
+}
+
+.footer, .footer a {
+    color: #ddd;
+}
+
+.alert {
+    font-size: 1.5em;
+    text-align: center;
+    padding: 20px 40px 20px 40px;
+    border-radius: 10px;
+}
+
+.alert a {
+    text-decoration: underline;
+}
+
+.alert .close {
+    text-shadow: none;
+    opacity: 1;
+}
+
+.alert .glyphicon {
+    font-size: 1.5em;
+    top: 10px;
+    left: -15px;
+}
+
+.alert-info {
+    color: #fff;
+    background-color: #337AB7;
+    border-color: #166db9;
+}
+
+.alert-info .close {
+    color: #fff;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+}
+
+.jumbotron .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+}
+
+.not-set {
+    color: #c55;
+    font-style: italic;
+}
+
+/* add sorting icons to gridview sort links */
+a.asc:after, a.desc:after {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    padding-left: 5px;
+}
+
+a.asc:after {
+    content: /*"\e113"*/ "\e151";
+}
+
+a.desc:after {
+    content: /*"\e114"*/ "\e152";
+}
+
+.sort-numerical a.asc:after {
+    content: "\e153";
+}
+
+.sort-numerical a.desc:after {
+    content: "\e154";
+}
+
+.sort-ordinal a.asc:after {
+    content: "\e155";
+}
+
+.sort-ordinal a.desc:after {
+    content: "\e156";
+}
+
+.grid-view th {
+    white-space: nowrap;
+}
+
+.hint-block {
+    display: block;
+    margin-top: 5px;
+    color: #999;
+}
+
+.error-summary {
+    color: #a94442;
+    background: #fdf7f7;
+    border-left: 3px solid #eed3d7;
+    padding: 10px 20px;
+    margin: 0 0 15px 0;
+}
+
+.optionRow label 
+{
+    padding: 0px;
+    font-weight: normal;
+}
+
+.tableOptionsModal label {
+    font-weight: normal;
+    vertical-align: middle;
+}
+
+#tableOptionsModal input[type=text], #tableCellOptionsModal input[type=text] 
+{
+    width: 60%;
+}
+
+.fullWidth, .fullWidthOneRow { 
+    width: 100%; 
+}
+
+.fullWidthOneRow { 
+    margin-bottom: 5px;
+    height: 32px;
+}
+
+.CodeMirror {
+    border: 1px solid #ccc; 
+}
+
+.CodeMirror pre.CodeMirror-placeholder { color: #999; }
+
+#code .CodeMirror {
+    height: 400px;    
+}
+
+#customJSTab .CodeMirror {
+    height: auto;
+}
+
+#findReplaceList, #tagAttributesList {
+    min-height: 140px;
+    width: 100%;    
+}
+
+#loading {
+    position: fixed;
+    top: 150px;
+    left: 50%;
+    width: 256px;
+    height: 256px;
+    margin-left: -125px;
+    z-index: 100000; 
+}
+
+#editorsWrapper h3 {
+    margin-top: 8px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.nosidepadding {
+   padding-left: 0 !important;
+   padding-right: 0 !important;
+}
+
+.top5 { margin-top: 5px }
+.top10 { padding-top: 5px; margin-top: 5px; }
+.top20 { margin-top: 20px }
+.top50 { margin-top: 50px }
+
+h4 { 
+    margin-top: 0px;
+}
+
+#docRow {
+    padding-top: 20px;
+}
+
+#docRow .btn {
+    vertical-align: top;
+}
+
+#templateRow, #docRow {
+    vertical-align: top;
+}
+
+#docRow h4, #editorsSizeWrapper, #templateRow h4 {
+    display: inline-block;
+}
+
+#docNameWrapper {
+    width: 50%;
+    display: inline-block;
+    padding-right: 10px;
+}
+
+#templateWrapper {
+    width: 39%;
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.btn-nobg, .btn-nobg:active, .btn-nobg:focus {
+    border: none;
+    background-color: transparent;
+    color: #222;
+}
+
+.btn-nobg:hover {
+    color: #333;
+    background-color: #e6e6e6;
+    border-color: #adadad;
+}
+
+.btn-primary {
+    background-color: #4A7CDF;
+    border-color: #4A7CDF;
+}
+
+.btn-success {
+    background-color: #1FC980;
+    border-color: #1FC980;
+}
+
+.btn-success:hover {
+    background-color: #19a065;
+    border-color: #19a065;
+}
+
+.modal-dialog .modal-content {
+    padding: 10px 20px;
+}
+
+.modal, .modal-dialog, .modal h4 {
+    color: #555;
+}
+
+.btn i {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.cleanup { 
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.saveButton, .aiButton { 
+    padding-top: 0px;
+    padding-right: 5px;
+    vertical-align: top;
+}
+
+#visualEditor {
+    position: relative;
+    padding-right: 25px;
+}
+
+#leftEditorBigger a, #rightEditorBigger a, #editorSizes a {
+    color: #222;
+    padding: 5px 5px 5px 5px;
+}
+
+#leftEditorBigger {
+    position: absolute;
+    right: 0px;
+    top: 180px;
+}
+
+#rightEditorBigger a {
+    padding-right: 3px;
+}
+
+#rightEditorBigger {
+    position: absolute;
+    right: 0px;
+    top: 240px;
+}
+
+#autosaveWrapper {
+    display: inline-block;
+}
+
+.paymentInfo {
+    position: relative;    
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+.paymentInfo h1, .wthFeatures h1 {
+    margin-top: 5px;
+}
+
+.paymentInfo p, .wthFeatures p {
+    margin: 10px 5px;
+}
+
+.paymentInfo p i, .wthFeatures p i {
+    margin-right: 10px;
+}
+
+.paymentInfo p i, .wthFeatures p i, #wthFeatures p i 
+{
+    color: #3B5998;     
+}
+
+.payment-page h2 {
+    font-size: 24px;
+}
+
+.payment-page h4 {
+    font-size: 20px;
+}
+
+.popupDiscountText {
+    color: red;
+    font-size: 20px;
+}
+
+.discountPrice, .discountPricePopup {
+    text-decoration: line-through;
+}
+
+.discountPrice {
+    color: red;
+}
+
+.register {
+    margin: 20px 0 0 0; 
+}
+
+.registerForm, .loginForm  {
+    padding: 20px 0;
+}
+
+.imageToRight {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.blackInfoText {
+    color: black;
+    font-size: 1.2em;
+}
+
+#paymentButtons {
+    padding: 15px 10px;
+}
+
+.paymentButtons .btn-lg {
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#payStripeButton {
+    margin-bottom: 10px;
+}
+
+.navbar-brand > img {
+    display: inline-block;
+    width: 250px;
+}
+
+.fb-like {
+    display: inline-block;
+}
+
+#authText { 
+    vertical-align: top;
+    padding-left: 38px;
+    padding-top: 5px;
+    display: inline-block;
+}
+
+#authWidget {
+    display: inline-block;
+}
+
+.goProNotice { color: #004a70 }
+
+.goProTopLink {
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    padding: 8px 20px;
+    margin-top: -1px;
+    margin-right: 5px !important;
+    margin-left: 15px !important;
+    border-radius: 5px;  
+    color: #fff !important;
+}
+
+.goProTopLink, #homeFeatures .btn-primary {
+    border: none;
+    background-color: #1FC980 !important;
+}
+
+.goProTopLink:hover, #homeFeatures .btn-primary:hover {
+    background-color: #1FC980 !important;
+}
+
+.loginButton {
+    background-color: #4A7CDF !important;
+}
+
+.loginButton:hover {
+    background-color: #0e86d6 !important;
+}
+
+#goProNotification { background-color: #337ab7; position: absolute; right: 0; top: 0; width: 300px; padding: 15px; }
+#goProNotification h3 { margin-top: 0; }
+#goProNotification h3, #goProNotification p { color: #fff; }
+#goProNotification a { color: #fff; text-decoration: underline; }
+#goProNotificationClose { position: absolute; right: 10px; top: 10px; color: white; }
+#goProNotificationClose a { text-decoration: none;}
+
+#uploadAndConvertWrapper {
+    margin: 35px 0 15px 0;
+}
+
+#dragAndDropInfo p {
+    color: #C1C9DF;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+#uploadDocColumn #fileForm {
+    border: 1px dashed #A6BBCF;
+    border-radius: 15px;
+}
+
+#uploadAndConvertCol label {
+    margin-right: 15px;
+    margin-bottom: 0;
+}
+
+#uploadAndConvertCol #fileForm {
+    padding: 50px 20px;
+    background-color: #fff;    
+    text-align: center;
+}
+
+#fileForm {
+    padding-top: 5px;
+}
+
+#doc {
+    width: 317px;
+}
+
+#signUpHeading {
+    font-size: 36px;
+    margin-bottom: 20px;    
+}
+
+#modalWTHPro h2 {
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 20px;    
+}
+
+#modalWTHPro .modal-content {
+    padding-bottom: 20px;
+}
+
+#modalWTHPro .modal-body {
+    padding: 30px 0px 40px 40px;
+}
+
+.featureBox {
+    padding: 5px 50px;
+}
+
+#wizardModal .modal-dialog {
+    width: 1000px;
+}
+
+.wthFeatures {
+    margin: 10px;
+}
+
+#modalWTHPro #socialButtons {
+    text-align: center;
+}
+
+#modalWTHPro h1 { 
+    margin-bottom: 30px;
+}
+
+#modalWTHPro #registrationSide {
+    padding: 0 60px;
+}
+
+.pro, .pro select, .pro input {
+    color: #3b5998 !important;
+}
+
+#socialButtons .btn-lg { 
+    color: #fff;
+    margin: 10px 0;
+}
+
+.btn-facebook {
+    background-color: #3b5998;
+}
+
+.btn-google {
+    background-color: #EA4335;
+}
+
+.indentLine {
+    display: block;
+}
+
+#modalWTHPro .modal-dialog {
+    width: 1180px;
+}
+
+.navbar-toggle .icon-bar {
+    width: 30px;
+}
+
+.cleanupOptions {
+    padding-top: 20px;
+}
+
+.guaranteeIcon {
+    padding-top: 105px;
+}
+
+.stripePayButton, .paypalPayButton {
+    margin: 10px 0px;
+}
+
+.stripePayButton p {
+    color: white;
+    font-weight: bold;
+}
+
+.reg-name-field {
+    display: none;
+}
+
+.FIE_topbar-close-button {
+    opacity: 0;
+}
+
+.closeAd {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 5px;
+}
+
+.optionRow {
+    margin-bottom: 15px;
+}
+
+#visualEditorTitleRow .checkbox-slider--b-flat {
+    margin-left: 15px;
+}
+
+.checkbox-slider--b-flat input+span {
+    padding-left: 50px;
+}
+
+#fileForm .checkbox-slider--b-flat input+span {
+    padding-left: 25px;
+}
+
+#fileForm .form-group div {
+    display: inline-block;
+ }
+
+@-moz-document url-prefix() {
+    #fileForm .checkbox-slider--b-flat input+span {
+        padding-left: 30px;
+    }
+}
+
+.checkbox-slider--b-flat input[type="checkbox"] {
+    display: inline-block;
+}
+
+.checkboxTop5 {
+    margin-top: 5px;
+}
+
+#darkThemeOption, #editorToolbarModeOption {
+    display: inline-block;
+}
+
+#darkThemeOption input+span, #editorToolbarModeOption input+span, #autosaveModeOption input+span, #amazonEditorModeOption input+span {
+    padding-left: 25px;
+}
+
+.fluidPadding {
+    padding-left: 17%;
+    padding-right: 16%;
+}
+
+label + .tooltip > .tooltip-inner, button + .tooltip > .tooltip-inner, .wthTip + .tooltip > .tooltip-inner {
+    background-color: #4A7CDF;
+    border: none;
+    padding: 15px;
+    min-width: 400px;
+    font-size: 15px;
+}
+
+.tooltip.in{opacity:0.97!important;}
+
+.site-news small {
+    display: block;
+    padding-bottom: 10px;
+}
+
+.mce-statusbar .mce-charactercount
+{
+  margin: 2px 0 2px 2px;
+  padding: 8px;
+  font-size: 11px;
+}
+
+#topInfo {
+    margin-top: 0px;
+}
+
+#topInfo, #bottomInfo {
+    margin-bottom: 20px;
+}
+
+#topInfo p, #bottomInfo p, #aiTopSEOText p {
+    color: #748598;
+    margin-bottom: 0px;
+    font-size: 16px;
+}
+
+.goProLink {
+   font-weight: bold;
+   font-size: 1.3em;
+}
+
+.goProLink a {
+   font-weight: bold;
+}
+
+.infoText {
+    margin: 8px 3px 5px 3px;
+    color: #aaa;
+}
+
+#editorMobileInfo {
+    color: #aaa;
+}
+
+#visualEditorTitleRow, #codeEditorTitleRow {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center;
+}
+
+#visualEditorTitleRow a {
+    text-decoration: underline;
+    color: #4A7CDF;
+}
+
+.rateit { vertical-align: bottom; }
+.rateit .rateit-selected { color: gold; }
+#rating {
+    padding-bottom: 4px;
+}
+
+#errorVisualEditor {
+    display: block;
+}
+
+#errorVisualEditor, .text-error {
+    color: red;
+    font-weight: bold;
+}
+
+.inlineBlock {
+    display: inline-block;
+    padding-right: 15px;
+}
+
+.fr-iframe {
+    background: #FFF;
+}
+
+.fr-toolbar #fontSize-1 span {
+    width: 36px !important;
+}
+
+.fr-qi-helper .fr-floating-btn i {
+    vertical-align: top;
+    line-height: 28px !important;
+}
+
+#yearlyDiscountInfo {
+    font-size: 24px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+#topPaymentHeadings {
+    text-align: center;
+}
+
+#topPaymentHeadings h3 {
+    font-size: 20px;
+}
+
+#topPricingHeader {
+    margin-top: 30px;
+}
+
+#customPlanInfo {
+    margin: 0;
+}
+
+#guarantee {
+    font-size: 1.5em;
+    margin: 1.5em 0;
+    background-color: #fff;
+    padding: 50px;
+    border: 1px dashed #A6BBCF;
+    border-radius: 15px
+}
+
+#guarantee h3 {
+    margin-top: 0;
+    font-size: 30px;
+}
+
+#paymentLogos img {
+    filter: grayscale(100%);
+}
+
+.paymentLogo {
+    display: inline-block;
+    width: 19%;
+}
+
+.paymentLogo img {
+    width: 80%;
+    opacity: 0.6;
+}
+
+.tryProPricing a {
+    margin: 20px 0;
+}
+
+@keyframes glowing {
+    0% { box-shadow: 0 0 -10px #4A7CDF; }
+    40% { box-shadow: 0 0 10px #4A7CDF; }
+    60% { box-shadow: 0 0 10px #4A7CDF; }
+    100% { box-shadow: 0 0 -10px #4A7CDF; }
+}
+
+.glowElement {
+    animation: glowing 1000ms 1;
+}
+
+#docConvertOptions {
+    display: inline;
+}
+
+#amazonAdvancedOptions {
+    text-align: center;
+    font-weight: bold;
+    padding: 0px 20px;
+}
+
+emoji-picker {
+    --emoji-size: 2.2rem;   
+    --input-font-size: 1.5rem; 
+}
+
+#emojisPopup {
+    position: absolute;
+    z-index: 100;
+}
+
+#textShadowPreview {
+    font-size: 30px;
+}
+
+#emailEditorButtons .btn {
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+
+#emailEditorButtons #emailSaveButton {
+    margin-right: 0;
+}
+
+#emailEditorButtons #savedEmails {
+    padding: 6px;
+    vertical-align: top;
+}
+
+.emailDisabled {
+    filter: grayscale(0.95);
+}
+
+#alerts {
+    position: absolute;
+    right: 20px;
+    top: 60px;
+    z-index: 100;
+    width: 30%;
+}
+
+.tinymce-mobile-outer-container 
+{
+    z-index: 10 !important;
+}
+
+.fr-wrapper .fr-placeholder {
+    z-index: 5;
+}
+
+#visualEditorTitleRow .checkbox-slider--b-flat input+span {
+    padding-left: 30px;
+}
+
+#htmlEditorButtons {
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    padding: 4px 0px 6px 10px;
+}
+
+.defaultEditor #htmlEditorButtons {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.lightHtmlEditorToolbar {
+    background-color: #fff;
+}
+
+#htmlEditorBelow {
+    margin-top: 20px;
+}
+
+.dcpAds 
+{
+    text-align: right;    
+    padding-left: 0px;
+}
+
+#account-page {
+    padding: 0;
+}
+
+.tabs-left {
+    display: flex;
+    align-content: flex-start;
+}
+
+.tabs-left .tab-pane h2 {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #ddd;    
+}
+
+.tabs-left > .nav-tabs {
+border-bottom: 0;
+background-color: #fff;
+}
+
+.tab-content > .tab-pane,
+.pill-content > .pill-pane {
+display: none;
+}
+
+.tab-content > .active,
+.pill-content > .active {
+display: block;
+}
+
+.tabs-left > .nav-tabs > li {
+float: none;
+}
+
+.tabs-left .tab-content .tab-pane-inner {
+    background-color: #fff;
+    padding: 35px;
+    border-radius: 10px;
+}
+
+.tabs-left > .nav-tabs > li > a {
+min-width: 74px;
+margin-right: 0;
+margin-bottom: 3px;
+}
+
+.tabs-left > .nav-tabs {
+min-width: 200px;
+margin-right: 20px;
+}
+
+.tabs-left .nav-tabs > li > a {
+    font-weight: normal;
+}
+
+.tabs-left > .nav-tabs > li > a {
+margin-right: -1px;
+-webkit-border-radius: 4px 0 0 4px;
+-moz-border-radius: 4px 0 0 4px;
+border-radius: 4px 0 0 4px;
+background-color: #ffffff;
+color: #666;
+}
+
+.tabs-left > .nav-tabs > li > a:active,
+.tabs-left > .nav-tabs > li > a:hover,
+.tabs-left > .nav-tabs > li > a:focus {
+border-color: #eeeeee #dddddd #eeeeee #eeeeee;
+background-color: #478AC9;
+color: #fff;
+}
+
+.tabs-left > .nav-tabs .active > a,
+.tabs-left > .nav-tabs .active > a:hover,
+.tabs-left > .nav-tabs .active > a:focus {
+border-color: #ddd #888 #ddd #ddd;
+border-right-color: #ffffff;
+background-color: #478AC9;
+color: #fff;
+font-weight: bold;
+}
+
+.tabs-left i { 
+    min-width: 30px; 
+    text-align: center;
+    color: #478AC9;
+}
+
+.tabs-left .nav-tabs .active i, .tabs-left .nav-tabs a:hover i {
+    color: #fff;
+}
+
+.tabs-left h2 { margin-top: 0; }
+
+#sharedDocUserInfo {
+    font-weight: bold;
+    color: red;
+}
+
+#homeInfo h3 { 
+    margin-bottom: 30px;
+}
+
+.panel-default {
+    border: none;
+    background-color: transparent;
+}
+
+.panel-default > .panel-heading {
+    color: #1FC980;
+    background-color: transparent;
+    border-color: #1a9e65;
+}
+
+.panel-default > .panel-heading a:hover, .panel-default > .panel-heading a:focus {
+    color: #1a9e65;
+}
+
+.panel-default .panel-heading h4 a {
+    font-weight: bold;
+}
+
+#registrationSide .btn-facebook, .registerForm .btn-facebook { display: none; }
+
+.dropdown-submenu .dropdown-menu {
+    min-width: 200px;
+}
+
+#imageSizeInfo {
+    font-size: 24px;
+    margin: 20px 0 40px 0;
+}
+
+#jpegQualityDiv, #jpegModeDiv {
+    display: inline-block;
+    padding-left: 30px;
+}
+
+#jpegModeDiv .form-group {
+    display: inline-block;
+}
+
+#imgResizeContainer {
+    margin: 40px 0; 
+    text-align: center;
+}
+
+#wthClients {
+    opacity: 0.9;
+}
+
+#wthClients img {
+    padding: 10px 15px;
+}
+
+#wthClientsWrapper {
+    text-align: center;
+    margin: 50px 0;
+}
+
+#wthClientsWrapper h3 { 
+    margin-bottom: 1em;
+    font-size: 30px;
+}
+
+#currencySwitch {
+    text-align: center;
+}
+
+#currencySwitch .btn-group {
+    background-color: #666;
+    padding: 5px;
+    border-radius: 30px; 
+}
+
+#currencySwitch .btn-lg {
+    border-radius: 30px;
+}
+
+#currencySwitch .btn-default {
+    color: #fff;
+    background-color: transparent;
+    border: none;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+#currencySwitch .btn-default.active {
+    background-color: #333;
+    color: #fff;
+    border: none;
+}
+
+#currencySwitch .btn-default.active.focus {
+    outline: none;
+}
+
+.imagePreview {
+    max-width: 200px; 
+    max-height: 200px; 
+    display: inline-block;
+    padding: 10px;
+}
+
+#openAITop {
+    margin-bottom: 15px;
+}
+
+#aiTopSEOText {
+    margin-bottom: 10px;
+}
+
+#examplePrompts {
+    margin-top: 10px;
+}
+
+.tooltip{
+    font-size: 1.5rem;
+ }
+
+ #aiOutputWrapper {
+    position: relative;
+ }
+
+ #aipromptform-output, #aipromptform-prompt {
+    resize: vertical;
+ }
+
+ #openAITopButtons, #examplePromptsDiv {
+    margin-bottom: 10px;
+ }
+
+ #tokensInfoDiv {
+    margin-top: 15px;
+    margin-bottom: 15px;
+ }
+
+ #openAIContent {
+    margin-top: 20px;    
+ }
+
+#aiPatienceDiv {
+    text-align: left;
+}
+
+ #aiIokensUsageDiv {
+    text-align: right;
+}
+
+ .fr-wrapper.show-placeholder .fr-placeholder {
+    white-space: break-spaces;
+ }
+
+ .checkbox-menu {
+    padding-left: 20px;
+ }
+
+ .checkbox-menu input { 
+    vertical-align: top;
+ }
+
+ .checkbox-menu label {
+    font-weight: normal;
+ }
+
+#grammaryAd
+{
+    margin-top: 30px;
+}
+
+#convertedFileButtons a {
+    margin-bottom: 10px;
+}
+
+#convertLinks a {
+    font-size: 25px;
+    text-decoration: underline;
+    padding: 10px 20px;
+}
+
+#convertedFileName {
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+
+#dcpAdInfo {
+    margin: 20px 0 40px 0;
+}
+
+#deleteInfo {
+    margin-top: 10px;
+}
+
+#promoCodeTimer {
+    margin-top: 30px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.separatorLine {
+    border-right: 1px solid #ddd;
+}
+
+.blueLink {
+    font-size: 16px;
+}
+
+#infoSection .hoverLink, #homeInfo .hoverLink { 
+    font-size: 20px;
+}
+
+.hoverLink:hover {
+    text-decoration: underline;    
+}
+
+.activePricingPlan {
+    font-weight: bold;
+}
+
+#img_editor_container {  
+    height: 400px;
+}
+
+@media only screen and (max-width : 1680px) {
+    /* Styles */
+    
+    #homeVideo {
+     width: 720px;
+     height: 380px;
+    }    
+    
+    h3 {
+        font-size: 20px;
+    }
+       
+    #doc {
+        width: 285px;
+    }   
+    
+    .fluidPadding {
+        padding-left: 8%;
+        padding-right: 8%;
+    }        
+
+
+}
+
+@media only screen and (max-width : 1440px) {
+    /* Styles */
+    
+    #homeVideo {
+     width: 560px;
+     height: 280px;
+    }
+    
+    h3 {
+        font-size: 18px;
+    }
+          
+    #docNameWrapper {
+        width: 44%;
+    }
+        
+    #doc {
+        width: 324px;
+    } 
+    
+    #code .btn { 
+        padding: 6px 8px
+    }    
+
+    .fluidPadding {
+        padding-left: 4%;
+        padding-right: 4%;
+    }    
+    
+    #fullscreeenCMButton span {
+        display: none;
+    }
+
+    #topInfo .fa-3x {
+        font-size: 2.3em;
+    }
+
+    .nav > li > a {
+        padding: 6px 16px;
+    }
+  
+}
+
+@media only screen and (max-width : 1366px) {
+    /* Styles */  
+        
+    #homeWTHInfo p {
+        font-size: 14px;
+    }
+
+    #modalWTHPro h2 {
+        font-size: 22px;
+    }
+    
+    #goProTimerWrapper {
+        font-size: 16px;
+    }
+        
+    h3 {
+        font-size: 20px;
+    }
+    
+    #docNameWrapper {
+        width: 40%;
+    }
+    
+    #doc {
+        width: 295px;
+    }  
+    
+    #uploadAndConvertCol label {
+        margin-right: 30px;
+    }    
+         
+    .fluidPadding {
+        padding-left: 0%;
+        padding-right: 0%;
+    } 
+    
+}
+
+@media only screen and (max-width : 1700px) and (min-width: 1367px) {
+
+    .fr-toolbar .fr-btn-grp {
+        margin-right: 5px;
+    }  
+
+    .fr-toolbar .fr-command.fr-btn i, .fr-toolbar .fr-command.fr-btn svg, .fr-popup .fr-command.fr-btn i, .fr-popup .fr-command.fr-btn svg, .fr-modal .fr-command.fr-btn i, .fr-modal .fr-command.fr-btn svg {
+        margin: 8px 4px;
+    }    
+}
+
+
+@media only screen and (max-width : 1366px) and (min-width: 1201px) {
+    .fr-toolbar .fr-btn-grp {
+        margin-right: 0px;
+    }   
+
+    .fr-toolbar .fr-command.fr-btn i, .fr-toolbar .fr-command.fr-btn svg, .fr-popup .fr-command.fr-btn i, .fr-popup .fr-command.fr-btn svg, .fr-modal .fr-command.fr-btn i, .fr-modal .fr-command.fr-btn svg {
+        margin: 8px 3px;
+    }    
+}
+
+@media only screen and (max-width : 1280px) {
+    /* Styles */
+
+    .fr-toolbar .fr-command.fr-btn {
+        margin: 4px 0;
+    }
+    
+    #homeVideo {
+     width: 520px;
+     height: 260px;
+    }    
+    
+    #templateWrapper {
+        width: 45%;
+    }
+    
+    #docNameWrapper {
+        width: 36%;
+    }    
+    
+    #doc {
+        width: 253px;
+    }   
+    
+    #uploadAndConvertCol label {
+        margin-right: 20px;
+    }      
+    
+}
+
+@media only screen and (max-width : 1640px) and (min-width: 1000px) {
+    .menuItemLabel { display: none; }
+}
+
+@media only screen and (max-width : 1340px) and (min-width: 1000px) {
+    .navbar-brand > img {
+        width: 200px;
+    }
+}
+
+@media only screen and (max-width : 1200px) {
+    /* Styles */
+    
+    #leftEditorBigger, #rightEditorBigger {
+        display: none;
+    }
+    
+    #code {
+        margin-top: 10px;
+    }
+    
+    #modalWTHPro .modal-dialog {
+        width: auto;
+    }   
+
+    #topPricingHeader {
+        text-align: center;
+    }
+
+    #yearlyDiscountInfo {
+        display: block;
+        margin-bottom: 20px;
+    }      
+    
+}
+
+@media only screen and (max-width : 1000px) {
+    /* Styles */
+
+    #editorToolbarModeOption {
+        display: none;
+    }  
+
+    #findReplaceList {
+        height: auto;
+    }
+    
+    .guaranteeIcon {
+        padding-top: 0;
+    }
+    
+    #wthFeatures { display: none }
+    
+    #wth h1 { font-size: 26px; }   
+    
+    .wrap > .container-fluid {
+        padding: 10px;
+    }    
+        
+    #docNameWrapper {
+        width: 50%;
+    }  
+
+    #visualEditor {
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-bottom: 30px;
+    }
+
+    .navbar-collapse .nav > li > a {
+        padding: 10px 20px;
+        font-size: 18px;
+        margin: 3px;
+    }   
+    
+    .navbar-collapse .btn-link, .navbar-collapse .dropdown-menu li a {
+        font-size: 18px;
+        padding: 10px 20px;
+    }    
+    
+    #alerts {
+        width: 70%;
+        right: 10px;
+        top: 70px;
+    }   
+    
+    #alerts .alert {
+        font-size: 1.5em;
+    }  
+
+    #openAITopButtons button, #clearPromptButton {
+        margin: 10px 0;
+        display: inline-block;
+    }
+
+    #openAITop h1 {
+        font-size: 20px;
+    }
+            
+}
+
+@media (max-width: 1000px) {
+
+    .dropdown-submenu .dropdown-menu {
+        position: relative;
+        display: block;
+        float: none;
+        padding-left: 20px;
+    }
+
+    #headerBar-collapse {
+        margin-top: 10px;
+    }
+
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin-top: 7.5px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+        display:block !important;
+    }
+
+    #copyCMButton {
+        width: 100%;
+    }
+
+    .dcpAds {
+        text-align: center;
+    }   
+    
+    .dcpAds .row {
+        padding: 8px 0px;
+    }
+
+    .goProTopLink {
+        margin-left: 3px !important;
+    }
+
+    #copyToClipboardButton { 
+        margin-top: 15px;
+    }        
+    
+}
+
+@media only screen and (min-width : 1024px) {
+  
+    #proFeatures {
+        width: 1170px;
+        margin: 0 auto;
+    }
+
+    #homeFeatures .col-md-5 {
+        padding-right: 40px;
+    }    
+
+    #convertionHelp { width: 66%; margin-left: 17%; }
+
+    #alertModalInfo, #confirmModalInfo { padding: 0 50px; }
+    
+}
+
+@media only screen and (min-width : 1000px) {
+
+    #aiModal .modal-dialog {
+        width: 60%;
+        height: 60%;
+    }
+
+    .navbar-header {
+        float: none;
+        position: absolute;
+    }
+    
+    .dropdown-submenu {
+        position: relative;
+      }
+      
+      .dropdown-submenu>.dropdown-menu {
+        top: 0;
+        left: 100%;
+        margin-top: -6px;
+        margin-left: -1px;
+        -webkit-border-radius: 0 6px 6px 6px;
+        -moz-border-radius: 0 6px 6px;
+        border-radius: 0 6px 6px 6px;
+      }
+      
+      .dropdown-submenu:hover>.dropdown-menu {
+        display: block;
+      }
+      
+      .dropdown-submenu>a:after {
+        display: block;
+        content: " ";
+        float: right;
+        width: 0;
+        height: 0;
+        border-color: transparent;
+        border-style: solid;
+        border-width: 5px 0 5px 5px;
+        border-left-color: #ccc;
+        margin-top: 5px;
+        margin-right: -10px;
+      }
+      
+      .dropdown-submenu:hover>a:after {
+        border-left-color: #fff;
+      }
+      
+      .dropdown-submenu.pull-left {
+        float: none;
+      }
+      
+      .dropdown-submenu.pull-left>.dropdown-menu {
+        left: -100%;
+        margin-left: 10px;
+        -webkit-border-radius: 6px 0 6px 6px;
+        -moz-border-radius: 6px 0 6px 6px;
+        border-radius: 6px 0 6px 6px;
+      }
+    
+}
+
+@media only screen and (min-width : 768px) {
+
+    .noleftpadding {
+       padding-left: 0 !important;
+    }
+
+    .norightpadding {
+       padding-left: 0 !important;
+    }
+    
+    #code {
+        padding-left: 5px;
+    }       
+  
+    #editorMobileInfo {
+        display: none;
+    }
+     
+}
+
+@media only screen and (max-width : 640px) {
+
+    .modal-dialog .modal-content {
+        padding: 2px 4px;
+    }    
+
+    #currencySwitch {
+        text-align: center;
+    }
+
+    #yearlyDiscountInfo {
+        font-size: 2.2em;
+    }
+
+    .paymentInfo {
+        padding: 10px 0px;
+        margin: 0px;
+    }
+   
+    .registerForm, .loginForm {
+        padding: 0;
+    }    
+    
+    #docNameWrapper, #templateWrapper {
+        width: 100%;
+        padding-bottom: 10px;
+    } 
+
+    .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus {
+        background-color: #eee;
+    }
+    
+    #htmlEditorButtons {
+        text-align: center;
+    }
+    
+    #docRow {
+        padding-top: 10px;
+    }    
+    
+    #topInfo a {
+        display: block;
+    }   
+
+    #topInfo .col-lg-3 {
+        display: none;
+    }
+    
+    #registerModalFeatures {
+        display: none;
+    }
+
+    #modalWTHPro .modal-body {
+        padding: 20px;
+    } 
+        
+    #uploadAndConvertWrapper {
+        margin-bottom: 10px;
+    }  
+    
+    #fileForm .form-group {
+        margin-bottom: 0px;
+    }
+
+    #uploadAndConvertCol label {
+        margin-right: 0px;
+    }    
+
+    #visualEditorTitleRow .checkbox-slider--b-flat {
+        margin-left: 10px;
+    }
+
+    #cleanupButton {
+        width: 85%;
+    }
+
+    #cleanupButton, #templateOptionsButton {
+        margin-top: 15px;
+    }
+
+    #docConvertOptions {
+        display: inline-block;
+    }
+
+    #convertButton {
+        padding: 10px 20px;
+        text-wrap: balance;
+    }
+
+    #tryProButton a {
+        width: 100%;
+    }
+
+    #homeFeatures .btn-lg {
+        padding: 15px 10px;
+    }   
+    
+    #bottomInfo .col-lg-4 {
+        margin-bottom: 20px;
+    }
+
+    emoji-picker {
+        --num-columns: 4;
+        width: 200px;
+    }   
+    
+    .tabs-left > .nav-tabs {
+        min-width: 110px;
+    }    
+
+    .tabs-left > .nav-tabs {
+        margin-right: 5px;
+    }
+    
+    .tabs-left .tab-content .tab-pane-inner {
+        padding: 5px;
+    }
+         
+    .tabs-left .tab-content .tab-pane-inner h2 { 
+        font-size: 20px;
+    }
+
+    .tabs-left i  { 
+        display: none;
+    }
+
+    .tabs-left li a { 
+        padding: 6px;
+    }
+
+    .paymentLogo {
+        width: 40%;
+        margin: 10px 5px;
+    }    
+
+    #wthClients img {
+        padding: 15px 5px;
+        height: auto;
+        width: 25%;
+    }    
+
+    #featuresArrow {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width : 375px) {
+    
+    #homeWTHInfo h1 {
+        font-size: 24px;
+    }   
+    
+    label + .tooltip > .tooltip-inner, button + .tooltip > .tooltip-inner, .wthTip + .tooltip > .tooltip-inner {
+        min-width: 250px;
+    }        
+   
+}
+
+@media only screen and (max-width : 320px) {
+    
+    .navbar-brand {  
+        padding: 15px 5px;
+    }
+   
+}
+
+@media only screen and (min-height : 800px) {
+    
+    #img_editor_container {  
+        height: 700px;
+    }
+   
+}
